@@ -1,6 +1,7 @@
 # amigoSecreto
 
-Implementacion del juego del amigo secreto en Alura Latam
+En este proyecto se mostará la implementacion de un juego llamado amigo secreto propuesto por Alura Latam
+
 
 Ingresa amigos en la barra y añadelos a tu lista
 
